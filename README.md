@@ -15,3 +15,5 @@ This repo and the site codefordayton.org uses Twitter Bootstrap and started from
 
 #Issues, Questions, Wana Help?
 We take Pull Requests! See http://codefordayton.org for getting involved, and http://codeforamerica.org if outside Dayton, Ohio. Use github's issues if you see a problem or have a feature request. You can contact the maintainer Dave Caraway at dave@fogmine.com or @davecaraway.
+
+##Ricardo is awesome!
