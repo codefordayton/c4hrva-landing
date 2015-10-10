@@ -122,8 +122,6 @@
       margin-top: 10px;
     }
 
-
-
     /* MARKETING CONTENT
     -------------------------------------------------- */
 
@@ -178,7 +176,36 @@
       letter-spacing: -1px;
     }
 
+    /* Project Pages 
+    ------------------------- */
 
+    .project .carousel .item {
+      min-height: 300px;
+    }
+
+    .project .carousel {
+      margin-bottom: 0;
+    }
+
+    .project .featurette-divider {
+      margin: 10px 0;
+    }
+
+    .project .featurette-heading {
+      font-size: 26px;
+      line-height: 1.5;
+    }
+
+    i.group-lead {
+      line-height: 30px;
+      margin-top: 5px;
+    }
+
+    span.group-lead {
+      font-weight: bold;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
 
     /* RESPONSIVE CSS
     -------------------------------------------------- */
